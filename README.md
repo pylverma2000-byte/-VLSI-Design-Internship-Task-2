@@ -28,7 +28,6 @@ This repository contains the implementation of basic combinational circuits usin
 - Design_Files – Verilog design modules
 - Testbench – Testbench files
 - Waveforms – Simulation results
-- RTL_Schematics – RTL diagrams
 - Report.pdf – Internship report
 
 ## Learning Outcomes
